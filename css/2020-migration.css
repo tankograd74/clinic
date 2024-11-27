@@ -4,11 +4,7 @@
 	padding:10px;
 }
 
-.preim_block_all_items > div img {
-	max-width: 40%;
-	margin:20px auto;
-	display: block;
-}
+.preim_block_all_items > div img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
 
 row {
 	clear: both;
@@ -118,10 +114,7 @@ blockquote {
     margin-top: 10px;
 }
 
-.page-form__label img {
-    margin-left: 0px;
-    margin-top: 55px;
-}
+.page-form__label img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
 
 .page-form__subhead-icon {
     display: inline-block;
@@ -137,9 +130,7 @@ blockquote {
     margin-top: 7px;
 }
 
-.page-form__doctor-img {
-    margin-top: 41px;
-}
+.page-form__doctor-img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
 
 .page-form__center {
     width: 100%;
@@ -210,16 +201,9 @@ blockquote {
 	clear: both;
 }
 
-.preim_block img {
-    filter:  brightness(90%) hue-rotate(90deg);
-}
+.preim_block img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
 
-.migration-page .block-5-items img, .migration-page .block-7-items img {
-	  filter:  brightness(100%) hue-rotate(85deg);
-	  display: block;
-	  float: none;
-	  margin:10px auto;
-}
+.migration-page .block-5-items img, .migration-page .block-7-items img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
 
 .migration-page ul li {
 	margin-left:30px;
@@ -267,12 +251,7 @@ blockquote {
     	padding: 5px 5px 5px;
     }
     
-    .page-form__label img {
-	    position: absolute;
-	    top:-40px;
-	    left:5px;
-	    max-width: 140px;
-    }
+    .page-form__label img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
     
     .page-form__subhead-text {
 	    margin-top:-50px;
