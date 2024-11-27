@@ -1,0 +1,149 @@
+
+
+/* Start:/bitrix/templates/2020/styles.css?16491627302817*/
+#mform.fancybox-content{padding:15px;}
+.popup .form_head{
+padding: 0 35px;
+}
+
+.popup .form .form_body {
+
+    margin: 0;
+    padding: 29px 35px 6px;
+
+}
+
+.popup .form_body div.form-control, .popup div.form-control {
+
+    background-color: #fff;
+    border: 0 solid #d5dadc;
+    box-shadow: none;
+    border-radius: 0;
+    height: auto;
+    padding: 0;
+
+}
+
+.popup .form-control {
+    margin: 0 0 19px;
+    position: relative;
+}
+
+.popup .form-control label {
+
+    display: block;
+    font-size: 14px;
+    margin-bottom: 2px;
+
+}
+
+.popup .form-block input, .popup  .form-block textarea, .popup input[type="email"], .popup input[type="password"], .popup input[type="text"], .popup textarea {
+
+    width: 100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+}
+
+.popup input:not(.button) {
+
+    line-height: 20px;
+
+}
+
+.popup input[type="email"], .popup input[type="password"], .popup input[type="tel"], .popup input[type="text"], .popup select, .popup textarea {
+
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-image: none;
+        background-size: auto;
+    border: 1px solid #000;
+    border-radius: 4px;
+    box-shadow: none;
+    color: #383838;
+    height: auto;
+    font-size: 12px;
+    padding: 8px 13px 7px;
+    width: 100%;
+
+}
+
+.popup .form .form_footer {
+
+    padding: 0 35px 12px;
+
+}
+
+.popup .form .form_footer {
+
+    margin: 0 0 23px;
+
+}
+
+.popup .form .licence_block.filter {
+
+    padding: 0 0 21px;
+    margin: -18px 0 0;
+    position: relative;
+    display: block !important;
+    box-shadow: none;
+    top: 0;
+
+}
+
+.popup .bx-firefox .button.medium, .popup .bx-ie .button.medium {
+
+    padding: 9px 13px 10px;
+
+}
+.popup .button{color: #FFF;
+    background: #676565;
+
+}
+
+.popup input[type="submit"], input[type="button"] {
+
+    text-transform: uppercase;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    outline: 0;
+
+}
+
+.popup .button, .popup button.button, .popup input.button {
+
+    cursor: pointer;
+    font-size: 16px;
+    font-weight:bold;
+    line-height: 16px;
+    text-transform: uppercase;
+    background: #405DB6;
+    color: #fff;
+    text-decoration: none;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    text-align: center;
+    padding: 12px 26px 12px;
+    display: inline-block;
+    border: none;
+    outline: 0;
+    position: relative;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: .4px;
+    width: auto;
+    vertical-align: middle;
+
+}
+/* End */
+/* /bitrix/templates/2020/styles.css?16491627302817 */

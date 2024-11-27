@@ -1,0 +1,3292 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=gFv6Xz3QmVgqclXKku1qwKYDxcHgKwLz&width=100%25&height=450
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://app.getreview.io/tags/2Dt4g0ciOjeM6hcz/sdk.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\tags\2Dt4g0ciOjeM6hcz\sdk.js
+Content Type: text/javascript
+
+Uri: https://code.jquery.com/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://medexpress.msk.ru/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/authors/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\authors\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/authors/yankin-evgeniy-vyacheslavovich/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\authors\yankin-evgeniy-vyacheslavovich\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/bitrix/cache/css/s1/2020/page_654b15a76453e73a0f9278f2c3e615de/page_654b15a76453e73a0f9278f2c3e615de_v1.css?1649165815351
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\bitrix\cache\css\s1\2020\page_654b15a76453e73a0f9278f2c3e615de\page_654b15a76453e73a0f9278f2c3e615de_v1.css
+Content Type: text/css
+
+Uri: https://medexpress.msk.ru/bitrix/cache/css/s1/2020/page_71f31805a1286454fa02fb78822e3fda/page_71f31805a1286454fa02fb78822e3fda_v1.css?1649503019355
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\bitrix\cache\css\s1\2020\page_71f31805a1286454fa02fb78822e3fda\page_71f31805a1286454fa02fb78822e3fda_v1.css
+Content Type: text/css
+
+Uri: https://medexpress.msk.ru/bitrix/cache/css/s1/2020/template_250bd23fe2770dcabae479f06fb56dad/template_250bd23fe2770dcabae479f06fb56dad_v1.css?16491628332945
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\bitrix\cache\css\s1\2020\template_250bd23fe2770dcabae479f06fb56dad\template_250bd23fe2770dcabae479f06fb56dad_v1.css
+Content Type: text/css
+
+Uri: https://medexpress.msk.ru/bitrix/cache/js/s1/2020/template_8baccc246934c4a01a9b02029b8fa6c8/template_8baccc246934c4a01a9b02029b8fa6c8_v1.js?16491628336467
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\bitrix\cache\js\s1\2020\template_8baccc246934c4a01a9b02029b8fa6c8\template_8baccc246934c4a01a9b02029b8fa6c8_v1.js
+Content Type: application/javascript
+
+Uri: https://medexpress.msk.ru/blog/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\blog\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/blog/acetilsalicilovaya-kislota-pri-pohmele/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\blog\acetilsalicilovaya-kislota-pri-pohmele\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/blog/kak-izbavitsya-ot-golovnoj-boli-pri-pohmele/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\blog\kak-izbavitsya-ot-golovnoj-boli-pri-pohmele\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/blog/kak-izbavitsya-ot-pohmelya/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\blog\kak-izbavitsya-ot-pohmelya\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/blog/kak-vosstanovit-pechen-posle-zapoya-i-alkogolya/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\blog\kak-vosstanovit-pechen-posle-zapoya-i-alkogolya\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/blog/lechenie-alkogolizma-kodirovaniem/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\blog\lechenie-alkogolizma-kodirovaniem\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/blog/medikamentoznoe-lechenie-alkogolizma/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\blog\medikamentoznoe-lechenie-alkogolizma\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/blog/neyrokodirovanie-ot-alkogolizma/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\blog\neyrokodirovanie-ot-alkogolizma\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/css/2017-global.css?12
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\2017-global.css
+Content Type: text/css
+
+Uri: https://medexpress.msk.ru/css/2017-pages.css?12
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\2017-pages.css
+Content Type: text/css
+
+Uri: https://medexpress.msk.ru/css/2020-migration.css
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\2020-migration.css
+Content Type: text/css
+
+Uri: https://medexpress.msk.ru/css/fonts/ProximaNova-Black.ttf
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\fonts\ProximaNova-Black.ttf
+Content Type: font/ttf
+
+Uri: https://medexpress.msk.ru/css/fonts/ProximaNova-Bold.ttf
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\fonts\ProximaNova-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://medexpress.msk.ru/css/fonts/ProximaNova-Extrabld.ttf
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\fonts\ProximaNova-Extrabld.ttf
+Content Type: font/ttf
+
+Uri: https://medexpress.msk.ru/css/fonts/ProximaNova-Light.ttf
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\fonts\ProximaNova-Light.ttf
+Content Type: font/ttf
+
+Uri: https://medexpress.msk.ru/css/fonts/ProximaNova-Regular.ttf
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\fonts\ProximaNova-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://medexpress.msk.ru/css/fonts/ProximaNova-Semibold.ttf
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\fonts\ProximaNova-Semibold.ttf
+Content Type: font/ttf
+
+Uri: https://medexpress.msk.ru/css/fonts/Roboto/Roboto-Black.ttf
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\fonts\Roboto\Roboto-Black.ttf
+Content Type: font/ttf
+
+Uri: https://medexpress.msk.ru/css/fonts/Roboto/Roboto-Bold.ttf
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\fonts\Roboto\Roboto-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://medexpress.msk.ru/css/fonts/Roboto/Roboto-Light.ttf
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\fonts\Roboto\Roboto-Light.ttf
+Content Type: font/ttf
+
+Uri: https://medexpress.msk.ru/css/fonts/Roboto/Roboto-Medium.ttf
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\fonts\Roboto\Roboto-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://medexpress.msk.ru/css/fonts/Roboto/Roboto-Regular.ttf
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\fonts\Roboto\Roboto-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://medexpress.msk.ru/css/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://medexpress.msk.ru/css/jquery-ui.theme.min.css
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\jquery-ui.theme.min.css
+Content Type: text/css
+
+Uri: https://medexpress.msk.ru/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://medexpress.msk.ru/favicon.ico
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://medexpress.msk.ru/favicon.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\favicon.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/1.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/2.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\2.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/bgs/block-form-2-bg.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\bgs\block-form-2-bg.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/bgs/block-form-bg.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\bgs\block-form-bg.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/bgs/block-legal-doctor.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\bgs\block-legal-doctor.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/bgs/block-motivation-bg.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\bgs\block-motivation-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/bgs/block-preimushestva-bg.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\bgs\block-preimushestva-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/bgs/doctor-1-top-bg.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\bgs\doctor-1-top-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/bgs/doctor-middle-bg.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\bgs\doctor-middle-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/bgs/main-top-bg.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\bgs\main-top-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/bgs/sea-middle-bg.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\bgs\sea-middle-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/gallery/klinika1.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\gallery\klinika1.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/gallery/klinika2.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\gallery\klinika2.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/gallery/klinika3.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\gallery\klinika3.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/gallery/klinika4.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\gallery\klinika4.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/gallery/klinika5.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\gallery\klinika5.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/gallery/klinika6.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\gallery\klinika6.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/gallery/klinika7.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\gallery\klinika7.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/gallery/klinika8.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\gallery\klinika8.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/gallery/klinika9.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\gallery\klinika9.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/icons/anponimno.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\anponimno.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/black-icon-time.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\black-icon-time.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-ambulance.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-ambulance.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-award.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-award.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-clock.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-clock.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-glass.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-glass.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-hospital.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-hospital.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-israel.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-israel.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-medal.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-medal.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-money.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-money.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-needle.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-needle.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-person.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-person.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-pie.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-pie.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-puzzle.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-puzzle.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-smile.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-smile.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-speed.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-speed.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-stairs.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-stairs.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-star.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-star.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-target.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-target.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-thumb.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-thumb.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/blue-icon-umbrella.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\blue-icon-umbrella.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/gerb.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\gerb.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/icon-menu-back.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\icon-menu-back.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/icon-menu-plus.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\icon-menu-plus.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/icon_city_select.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\icon_city_select.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/icons/kodirovanie.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\kodirovanie.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/kruglosutochno.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\kruglosutochno.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/lechenie-v-klinike.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\lechenie-v-klinike.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/main-top-icon-1.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\main-top-icon-1.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/main-top-icon-2.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\main-top-icon-2.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/main-top-icon-3.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\main-top-icon-3.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/motivacija.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\motivacija.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/pomosh-rodstvennikam.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\pomosh-rodstvennikam.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/reabilitacija.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\reabilitacija.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/vip-lechenie.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\vip-lechenie.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/vyezd-na-dom.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\vyezd-na-dom.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/vyvod-iz-zapoja.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\vyvod-iz-zapoja.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/white-icon-ambulance.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\white-icon-ambulance.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/white-icon-clock.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\white-icon-clock.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/white-icon-diploma.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\white-icon-diploma.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/white-icon-incognito.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\white-icon-incognito.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/white-icon-medication.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\white-icon-medication.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/white-icon-shield.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\white-icon-shield.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/icons/white-icon-wallet.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\icons\white-icon-wallet.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/logo-notext.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\logo-notext.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/logo-white-notext.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\logo-white-notext.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/menu-toggle-button.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\menu-toggle-button.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/M_images/2-1200x6301.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\2-1200x6301.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/M_images/21223988784121E-021.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\21223988784121E-021.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/M_images/2a8f0d10cba5ae8cc4c76b47ab2ec6b8_d_h_5001.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\2a8f0d10cba5ae8cc4c76b47ab2ec6b8_d_h_5001.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/M_images/91.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\91.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/M_images/Elektroimpulsnaya-terapiya1.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\Elektroimpulsnaya-terapiya1.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/M_images/fotolia_138116472_subscription_monthly_m1.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\fotolia_138116472_subscription_monthly_m1.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/M_images/Image020801.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\Image020801.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/M_images/kak-izbavitsya-ot-narkomanii-11.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\kak-izbavitsya-ot-narkomanii-11.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/M_images/kodirovanie_naltreksonom1.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\kodirovanie_naltreksonom1.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/M_images/kok1.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\kok1.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/M_images/lechenie-podrostkovogo-alkogolizma-1024x6781.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\lechenie-podrostkovogo-alkogolizma-1024x6781.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/M_images/magnitoterapiya21.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\magnitoterapiya21.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/M_images/solevaya-zavisimost-lechenie1.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\M_images\solevaya-zavisimost-lechenie1.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-1.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-1.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-10.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-10.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-11.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-11.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-12.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-12.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-13.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-13.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-14.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-14.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-15.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-15.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-16.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-16.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-17.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-17.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-18.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-18.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-2.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-2.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-3.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-3.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-4.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-4.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-5.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-5.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-6.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-6.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-7.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-7.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-8.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-8.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/original/klinika-medexpress-9.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\original\klinika-medexpress-9.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-1.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-1.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-10.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-10.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-11.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-11.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-12.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-12.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-13.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-13.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-14.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-14.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-15.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-15.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-16.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-16.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-17.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-17.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-18.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-18.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-2.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-2.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-3.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-3.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-4.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-4.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-5.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-5.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-6.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-6.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-7.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-7.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-8.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-8.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/os_imagegallery_128/thumbnail/klinika-medexpress-9.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\os_imagegallery_128\thumbnail\klinika-medexpress-9.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/reviews/reviews-2.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\reviews\reviews-2.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/reviews/reviews-3.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\reviews\reviews-3.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/reviews/reviews-4.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\reviews\reviews-4.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/reviews/reviews-a.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\reviews\reviews-a.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/specialists/1.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\specialists\1.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/specialists/2.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\specialists\2.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/specialists/3.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\specialists\3.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/specialists/5.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\specialists\5.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/specialists/6.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\specialists\6.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/specialists/7.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\specialists\7.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/vip/vip-lechenie-1.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\vip\vip-lechenie-1.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/vip/vip-lechenie-2.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\vip\vip-lechenie-2.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/vip/vip-lechenie-3.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\vip\vip-lechenie-3.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/vip/vip-lechenie-4.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\vip\vip-lechenie-4.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/images/whatsapp-icon.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\whatsapp-icon.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/images/whatsapp.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/js/custom-2017.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\js\custom-2017.js
+Content Type: application/javascript
+
+Uri: https://medexpress.msk.ru/js/global-2017.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\js\global-2017.js
+Content Type: application/javascript
+
+Uri: https://medexpress.msk.ru/js/jquery-ui.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://medexpress.msk.ru/js/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://medexpress.msk.ru/js/jquery.maskedinput-1.3.min.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\js\jquery.maskedinput-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://medexpress.msk.ru/js/jquery.menu.aim.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\js\jquery.menu.aim.js
+Content Type: application/javascript
+
+Uri: https://medexpress.msk.ru/js/jquery.swipe.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\js\jquery.swipe.js
+Content Type: application/javascript
+
+Uri: https://medexpress.msk.ru/js/jquery.touch.punch.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\js\jquery.touch.punch.js
+Content Type: application/javascript
+
+Uri: https://medexpress.msk.ru/js/private.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\js\private.js
+Content Type: application/javascript
+
+Uri: https://medexpress.msk.ru/klinika/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\klinika\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/klinika/covid19/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\klinika\covid19\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/klinika/fotogallereya-kliniki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\klinika\fotogallereya-kliniki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/klinika/klinika-medekspress-v-izraile/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\klinika\klinika-medekspress-v-izraile\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/klinika/litsenziya-na-pravo-deyatelnosti/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\klinika\litsenziya-na-pravo-deyatelnosti\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/klinika/motivatsiya-na-lechenie/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\klinika\motivatsiya-na-lechenie\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/klinika/otzyvy-patsientov/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\klinika\otzyvy-patsientov\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/klinika/spetsialisty/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\klinika\spetsialisty\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/klinika/vip-lechenie/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\klinika\vip-lechenie\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/akstopleksom/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\akstopleksom\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/algominalom/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\algominalom\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/apparatnoe-kodirovanie/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\apparatnoe-kodirovanie\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/disulfiramom/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\disulfiramom\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/electroimpulsnoe/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\electroimpulsnoe\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/esperal/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\esperal\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/gipnozom/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\gipnozom\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/naltreksonom/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\naltreksonom\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/po-metodu-dovzenko/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\po-metodu-dovzenko\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/torpedo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\torpedo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kodirovanie-ot-alkogolizma/vitamerc-depo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kodirovanie-ot-alkogolizma\vitamerc-depo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/kontakty-kliniki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\kontakty-kliniki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/ambulatorno/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\ambulatorno\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/aprelevka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\aprelevka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/balashiha/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\balashiha\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/bronnicy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\bronnicy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/bykovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\bykovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/chernogolovka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\chernogolovka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/dedovsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\dedovsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/detoksikaciya-ot-alkogolya/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\detoksikaciya-ot-alkogolya\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/dolgoprudnyj/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\dolgoprudnyj\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/domodedovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\domodedovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/dubna/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\dubna\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/dzerzhinskij/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\dzerzhinskij\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/frjazino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\frjazino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/golicyno/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\golicyno\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/gorki-leninskie/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\gorki-leninskie\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/himki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\himki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/istra/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\istra\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/ivanteevka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\ivanteevka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/izrail/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\izrail\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/jahroma/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\jahroma\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/jelektrostal/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\jelektrostal\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/jelektrougli/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\jelektrougli\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/jubilejnyj/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\jubilejnyj\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/klimovsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\klimovsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/koroljov/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\koroljov\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/kotelniki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\kotelniki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/krasnoarmejsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\krasnoarmejsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/krasnogorsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\krasnogorsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/krasnoznamensk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\krasnoznamensk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/kubinka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\kubinka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/kurovskoe/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\kurovskoe\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/kurs-lecheniya/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\kurs-lecheniya\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/lechenie-zhenskogo-alkogolizma/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\lechenie-zhenskogo-alkogolizma\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/lesnoj-gorodok/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\lesnoj-gorodok\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/ljubercy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\ljubercy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/lobnja/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\lobnja\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/losino-petrovskij/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\losino-petrovskij\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/lytkarino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\lytkarino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/malahovka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\malahovka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/mendeleevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\mendeleevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/mihnevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\mihnevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/mytishhi/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\mytishhi\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/nahabino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\nahabino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/noginsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\noginsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/odincovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\odincovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/podmoskove/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\podmoskove\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/podolsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\podolsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/prinuditelno/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\prinuditelno\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/prinuditelno//
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\prinuditelno\index-1.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/pushkino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\pushkino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/putilkovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\putilkovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/ramenskoe/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\ramenskoe\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/reutov/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\reutov\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/rumjancevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\rumjancevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/serednikovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\serednikovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/sheremetevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\sheremetevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/shherbinka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\shherbinka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/shhjolkovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\shhjolkovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/shodnja/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\shodnja\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/solnechnogorsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\solnechnogorsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/spb/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\spb\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/staraja-kupavna/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\staraja-kupavna\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/tomilino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\tomilino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/troick/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\troick\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/u-podrostkov/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\u-podrostkov\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/vereja/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\vereja\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/veshki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\veshki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/vidnoe/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\vidnoe\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/vnukovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\vnukovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/zelenograd/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\zelenograd\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/zheleznodorozhnyj/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\zheleznodorozhnyj\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/zhukovskij/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\zhukovskij\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-alkogolizma/zvenigorod/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-alkogolizma\zvenigorod\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/detoksikatsiya/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\detoksikatsiya\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/narkologicheskij-stacionar/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\narkologicheskij-stacionar\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/ot-amfetamina/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\ot-amfetamina\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/ot-geroina/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\ot-geroina\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/ot-kokaina/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\ot-kokaina\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/ot-metadona/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\ot-metadona\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/ot-opioidnoj-zavisimosti/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\ot-opioidnoj-zavisimosti\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/ot-soli/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\ot-soli\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/ot-spajsov/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\ot-spajsov\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/prinuditelnoe/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\prinuditelnoe\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/snyatie-lomki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\snyatie-lomki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/test-na-narkotiki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\test-na-narkotiki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/toksikomaniya/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\toksikomaniya\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/ubod/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\ubod\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/lechenie-narkozavisimosti/v-izraile/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\lechenie-narkozavisimosti\v-izraile\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/aprelevka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\aprelevka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/balashiha/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\balashiha\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/bronnicy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\bronnicy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/bykovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\bykovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/cao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\cao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/chernogolovka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\chernogolovka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/dedovsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\dedovsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/dolgoprudnyj/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\dolgoprudnyj\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/domodedovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\domodedovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/dubna/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\dubna\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/dzerzhinskij/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\dzerzhinskij\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/frjazino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\frjazino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/golicyno/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\golicyno\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/gorki-leninskie/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\gorki-leninskie\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/himki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\himki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/istra/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\istra\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/ivanteevka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\ivanteevka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/jahroma/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\jahroma\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/jelektrostal/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\jelektrostal\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/jelektrougli/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\jelektrougli\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/jubilejnyj/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\jubilejnyj\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/klimovsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\klimovsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/koroljov/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\koroljov\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/kotelniki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\kotelniki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/krasnoarmejsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\krasnoarmejsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/krasnogorsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\krasnogorsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/krasnoznamensk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\krasnoznamensk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/kubinka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\kubinka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/kurovskoe/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\kurovskoe\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/lesnoj-gorodok/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\lesnoj-gorodok\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/ljubercy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\ljubercy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/lobnja/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\lobnja\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/losino-petrovskij/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\losino-petrovskij\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/lytkarino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\lytkarino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/malahovka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\malahovka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/mendeleevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\mendeleevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/mihnevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\mihnevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/mytishhi/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\mytishhi\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/nahabino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\nahabino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/noginsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\noginsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/novomoskovskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\novomoskovskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/odincovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\odincovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/okrug/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\okrug\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/podmoskove/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\podmoskove\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/podolsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\podolsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/pushkino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\pushkino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/putilkovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\putilkovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/ramenskoe/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\ramenskoe\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/reutov/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\reutov\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/rumjancevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\rumjancevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/sao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\sao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/serednikovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\serednikovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/sheremetevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\sheremetevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/shherbinka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\shherbinka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/shhjolkovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\shhjolkovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/shodnja/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\shodnja\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/solnechnogorsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\solnechnogorsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/spb/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\spb\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/staraja-kupavna/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\staraja-kupavna\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/svao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\svao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/szao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\szao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/tomilino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\tomilino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/troick/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\troick\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/troickiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\troickiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/uao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\uao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/uvao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\uvao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/uzao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\uzao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/vao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\vao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/vereja/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\vereja\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/veshki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\veshki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/vidnoe/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\vidnoe\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/vnukovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\vnukovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/zao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\zao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/zelao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\zelao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/zelenograd/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\zelenograd\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/zheleznodorozhnyj/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\zheleznodorozhnyj\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/zhukovskij/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\zhukovskij\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/narkolog-na-dom/zvenigorod/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\narkolog-na-dom\zvenigorod\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/newindexpage/images/certificates/l1.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\newindexpage\images\certificates\l1.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/newindexpage/images/certificates/l2.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\newindexpage\images\certificates\l2.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/newindexpage/images/certificates/l3.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\newindexpage\images\certificates\l3.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/newindexpage/images/certificates/l4.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\newindexpage\images\certificates\l4.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/newindexpage/images/certificates/l5.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\newindexpage\images\certificates\l5.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/reabilitaciya/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\reabilitaciya\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/templates/medexpress/images/check-icon.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\templates\medexpress\images\check-icon.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/templates/medexpress/images/doctor1.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\templates\medexpress\images\doctor1.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/templates/medexpress/images/label-anon.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\templates\medexpress\images\label-anon.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/templates/medexpress/images/preim/img1.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\templates\medexpress\images\preim\img1.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/templates/medexpress/images/preim/img2.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\templates\medexpress\images\preim\img2.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/templates/medexpress/images/preim/img3.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\templates\medexpress\images\preim\img3.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/templates/medexpress/images/preim/img4.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\templates\medexpress\images\preim\img4.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/templates/medexpress/images/preim/img5.png
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\templates\medexpress\images\preim\img5.png
+Content Type: image/png
+
+Uri: https://medexpress.msk.ru/tseny-na-lechenie/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\tseny-na-lechenie\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/upload/iblock/03d/03d2d7857eaa2d2b238b3a9f158df205.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\upload\iblock\03d\03d2d7857eaa2d2b238b3a9f158df205.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/upload/iblock/26a/26aea7d2ee9b4f78a9a10fc4a3e69edc.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\upload\iblock\26a\26aea7d2ee9b4f78a9a10fc4a3e69edc.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/upload/iblock/3b9/3b9e63015a4d1f6a29eb5f6c8dfebf2b.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\upload\iblock\3b9\3b9e63015a4d1f6a29eb5f6c8dfebf2b.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/upload/iblock/6a2/6a244e4631d3050f72f7f510223e7b15.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\upload\iblock\6a2\6a244e4631d3050f72f7f510223e7b15.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/upload/iblock/754/754c96618bdd03f141a6b0d73412a55a.jpeg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\upload\iblock\754\754c96618bdd03f141a6b0d73412a55a.jpeg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/upload/iblock/c21/c21bb593ccb589038c2b97debc684d35.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\upload\iblock\c21\c21bb593ccb589038c2b97debc684d35.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/upload/iblock/dac/dac8e11f665c871be2190c29287a16fb.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\upload\iblock\dac\dac8e11f665c871be2190c29287a16fb.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/upload/iblock/f53/f536e1b57a52710c203bc5bc406a3e4e.jpg
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\upload\iblock\f53\f536e1b57a52710c203bc5bc406a3e4e.jpg
+Content Type: image/jpeg
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/chastnyy-vytrezvitel/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\chastnyy-vytrezvitel\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/kapelnitsa-ot-zapoya/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\kapelnitsa-ot-zapoya\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/aeroport-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\aeroport-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/aeroport/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\aeroport\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/akademicheskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\akademicheskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/akademicheskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\akademicheskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/aleksandrovskiy-sad-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\aleksandrovskiy-sad-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/alekseyevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\alekseyevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/alekseyevskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\alekseyevskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/alma-atinskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\alma-atinskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/altufyevo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\altufyevo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/altufyevskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\altufyevskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/annino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\annino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/aprelevka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\aprelevka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/arbat/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\arbat\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/arbatskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\arbatskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/aviamotornaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\aviamotornaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/avtozavodskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\avtozavodskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/babushkinskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\babushkinskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/babushkinskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\babushkinskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/bagrationovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\bagrationovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/balashiha/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\balashiha\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/barrikadnaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\barrikadnaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/basmannyy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\basmannyy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/baumanskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\baumanskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/begovaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\begovaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/begovoy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\begovoy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/belomorskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\belomorskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/belorusskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\belorusskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/belyayevo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\belyayevo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/beskudnikovskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\beskudnikovskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/bibirevo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\bibirevo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/bibirevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\bibirevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/biblioteka-imeni-lenina-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\biblioteka-imeni-lenina-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/biryulevo-vostochnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\biryulevo-vostochnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/biryulevo-zapadnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\biryulevo-zapadnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/bittsevskiy-park-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\bittsevskiy-park-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/bogorodskoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\bogorodskoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/borisovo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\borisovo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/borovitskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\borovitskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/borovskoye-shosse-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\borovskoye-shosse-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/botanicheskiy-sad-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\botanicheskiy-sad-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/brateyevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\brateyevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/bratislavskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\bratislavskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/bronnicy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\bronnicy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/bulvar-admirala-ushakova-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\bulvar-admirala-ushakova-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/bulvar-dmitriya-donskogo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\bulvar-dmitriya-donskogo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/bulvar-rokossovskogo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\bulvar-rokossovskogo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/buninskaya-alleya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\buninskaya-alleya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/butovo-severnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\butovo-severnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/butovo-yuzhnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\butovo-yuzhnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/butyrskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\butyrskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/butyrskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\butyrskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/bykovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\bykovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/cao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\cao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/chekhovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\chekhovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/cheremushki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\cheremushki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/cherkizovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\cherkizovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/chernogolovka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\chernogolovka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/chertanovo-severnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\chertanovo-severnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/chertanovo-tsentralnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\chertanovo-tsentralnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/chertanovo-yuzhnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\chertanovo-yuzhnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/chertanovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\chertanovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/chistyye-prudy-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\chistyye-prudy-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/chkalovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\chkalovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/danilovskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\danilovskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/dedovsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\dedovsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/degunino-vostochnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\degunino-vostochnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/degunino-zapadnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\degunino-zapadnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/delovoy-tsentr-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\delovoy-tsentr-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/dinamo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\dinamo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/dmitrovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\dmitrovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/dmitrovskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\dmitrovskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/dobryninskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\dobryninskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/dolgoprudnyj/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\dolgoprudnyj\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/domodedovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\domodedovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/domodedovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\domodedovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/donskoy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\donskoy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/dorogomilovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\dorogomilovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/dostoyevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\dostoyevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/dubna/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\dubna\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/dubrovka-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\dubrovka-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/dzerzhinskij/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\dzerzhinskij\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/elektrozavodskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\elektrozavodskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/filatov-lug-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\filatov-lug-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/filevskiy-park-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\filevskiy-park-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/filevskiy-park/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\filevskiy-park\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/fili-davydkovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\fili-davydkovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/fili-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\fili-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/filial/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\filial\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/fonvizinskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\fonvizinskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/frjazino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\frjazino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/frunzenskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\frunzenskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/gagarinskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\gagarinskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/golicyno/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\golicyno\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/golovinskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\golovinskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/golyanovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\golyanovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/gorki-leninskie/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\gorki-leninskie\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/govorovo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\govorovo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/himki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\himki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/istra/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\istra\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ivanovskoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ivanovskoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ivanteevka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ivanteevka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/izmaylovo-severnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\izmaylovo-severnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/izmaylovo-vostochnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\izmaylovo-vostochnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/izmaylovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\izmaylovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/izmaylovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\izmaylovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/jahroma/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\jahroma\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/jelektrostal/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\jelektrostal\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/jelektrougli/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\jelektrougli\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/jubilejnyj/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\jubilejnyj\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kakhovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kakhovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kaluzhskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kaluzhskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kantemirovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kantemirovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kapotnya/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kapotnya\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kashirskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kashirskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/khamovniki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\khamovniki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/khoroshevo-mnevniki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\khoroshevo-mnevniki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/khoroshevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\khoroshevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/khoroshevskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\khoroshevskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/khovrino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\khovrino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/khovrino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\khovrino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kitay-gorod-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kitay-gorod-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kiyevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kiyevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/klimovsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\klimovsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kolomenskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kolomenskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kommunarka-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kommunarka-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/komsomolskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\komsomolskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/konkovo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\konkovo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/konkovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\konkovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/koptevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\koptevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/koroljov/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\koroljov\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kosino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kosino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kosino-ukhtomskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kosino-ukhtomskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kotelniki-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kotelniki-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kotelniki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kotelniki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kotlovka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kotlovka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kozhukhovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kozhukhovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/krasnoarmejsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\krasnoarmejsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/krasnogorsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\krasnogorsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/krasnogvardeyskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\krasnogvardeyskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/krasnopresnenskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\krasnopresnenskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/krasnoselskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\krasnoselskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/krasnoselskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\krasnoselskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/krasnoznamensk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\krasnoznamensk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/krasnyye-vorota-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\krasnyye-vorota-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/krestyanskaya-zastava-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\krestyanskaya-zastava-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kropotkinskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kropotkinskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/krylatskoye-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\krylatskoye-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/krylatskoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\krylatskoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kryukovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kryukovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kubinka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kubinka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kuntsevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kuntsevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kuntsevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kuntsevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kurkino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kurkino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kurovskoe/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kurovskoe\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kurskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kurskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kutuzovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kutuzovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kuzminki-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kuzminki-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kuzminki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kuzminki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/kuznetskiy-most-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\kuznetskiy-most-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lefortovo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lefortovo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lefortovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lefortovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/leninskiy-prospekt-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\leninskiy-prospekt-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lermontovskiy-prospekt-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lermontovskiy-prospekt-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lesnoj-gorodok/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lesnoj-gorodok\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lesoparkovaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lesoparkovaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/levoberezhnyy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\levoberezhnyy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lianozovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lianozovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ljubercy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ljubercy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lobnja/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lobnja\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lomonosovskiy-prospekt-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lomonosovskiy-prospekt-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lomonosovskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lomonosovskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/losino-petrovskij/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\losino-petrovskij\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/losinoostrovskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\losinoostrovskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lubyanka-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lubyanka-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lukhmanovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lukhmanovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lytkarino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lytkarino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lyublino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lyublino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/lyublino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\lyublino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/malahovka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\malahovka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/marfino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\marfino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/marina-roshcha-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\marina-roshcha-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/marina-roshcha/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\marina-roshcha\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/marino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\marino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/marino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\marino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/marksistskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\marksistskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/matushkino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\matushkino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/mayakovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\mayakovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/medvedkovo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\medvedkovo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/medvedkovo-severnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\medvedkovo-severnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/medvedkovo-yuzhnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\medvedkovo-yuzhnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/mendeleevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\mendeleevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/mendeleyevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\mendeleyevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/meshchanskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\meshchanskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/metrogorodok/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\metrogorodok\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/mezhdunarodnaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\mezhdunarodnaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/michurinskiy-prospekt-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\michurinskiy-prospekt-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/mihnevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\mihnevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/minskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\minskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/mitino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\mitino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/mitino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\mitino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/mnevniki-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\mnevniki-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/molodezhnaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\molodezhnaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/molzhaninovskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\molzhaninovskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/moskvorechye-saburovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\moskvorechye-saburovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/mozhayskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\mozhayskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/myakinino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\myakinino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/mytishhi/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\mytishhi\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/nagatino-sadovniki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\nagatino-sadovniki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/nagatinskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\nagatinskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/nagatinskiy-zaton/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\nagatinskiy-zaton\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/nagornaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\nagornaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/nagornyy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\nagornyy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/nahabino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\nahabino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/nakhimovskiy-prospekt-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\nakhimovskiy-prospekt-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/narodnoye-opolcheniye-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\narodnoye-opolcheniye-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/nekrasovka-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\nekrasovka-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/nekrasovka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\nekrasovka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/nizhegorodskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\nizhegorodskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/nizhegorodskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\nizhegorodskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/noginsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\noginsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/novo-peredelkino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\novo-peredelkino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/novogireyevo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\novogireyevo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/novogireyevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\novogireyevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/novokosino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\novokosino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/novokosino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\novokosino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/novokuznetskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\novokuznetskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/novomoskovskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\novomoskovskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/novoperedelkino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\novoperedelkino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/novoslobodskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\novoslobodskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/novoyasenevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\novoyasenevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/novyye-cheremushki-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\novyye-cheremushki-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/obruchevskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\obruchevskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ochakovo-matveyevskoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ochakovo-matveyevskoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/odincovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\odincovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/okhotnyy-ryad-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\okhotnyy-ryad-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/okrug/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\okrug\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/okruzhnaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\okruzhnaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/okskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\okskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/oktyabrskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\oktyabrskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/oktyabrskoye-pole-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\oktyabrskoye-pole-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/olkhovaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\olkhovaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/orekhovo-borisovo-severnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\orekhovo-borisovo-severnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/orekhovo-borisovo-yuzhnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\orekhovo-borisovo-yuzhnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/orekhovo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\orekhovo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ostankinskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ostankinskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/otradnoye-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\otradnoye-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/otradnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\otradnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ozernaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ozernaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/park-kultury-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\park-kultury-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/park-pobedy-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\park-pobedy-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/partizanskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\partizanskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/paveletskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\paveletskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/pechatniki-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\pechatniki-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/pechatniki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\pechatniki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/perovo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\perovo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/perovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\perovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/pervomayskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\pervomayskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/petrovskiy-park-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\petrovskiy-park-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/petrovsko-razumovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\petrovsko-razumovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/pionerskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\pionerskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/planernaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\planernaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ploshchad-ilicha-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ploshchad-ilicha-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ploshchad-revolyutsii-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ploshchad-revolyutsii-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/podmoskove/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\podmoskove\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/podolsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\podolsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/pokrovskoye-streshnevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\pokrovskoye-streshnevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/polezhayevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\polezhayevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/polyanka-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\polyanka-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/prazhskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\prazhskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/preobrazhenskaya-ploshchad-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\preobrazhenskaya-ploshchad-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/preobrazhenskoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\preobrazhenskoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/presnenskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\presnenskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/profsoyuznaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\profsoyuznaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/prokshino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\prokshino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/proletarskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\proletarskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/prospekt-mira-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\prospekt-mira-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/prospekt-vernadskogo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\prospekt-vernadskogo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/prospekt-vernadskogo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\prospekt-vernadskogo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/pushkino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\pushkino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/pushkinskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\pushkinskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/putilkovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\putilkovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/pyatnitskoye-shosse-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\pyatnitskoye-shosse-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/raion/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\raion\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ramenki-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ramenki-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ramenki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ramenki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ramenskoe/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ramenskoe\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/rasskazovka-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\rasskazovka-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/rechnoy-vokzal-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\rechnoy-vokzal-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/reutov/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\reutov\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/rimskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\rimskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/rizhskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\rizhskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/rostokino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\rostokino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/rumjancevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\rumjancevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/rumyantsevo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\rumyantsevo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ryazanskiy-prospekt-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ryazanskiy-prospekt-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ryazanskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ryazanskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/salaryevo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\salaryevo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/savelki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\savelki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/savelovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\savelovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/savelovskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\savelovskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/seligerskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\seligerskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/semenovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\semenovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/serednikovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\serednikovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/serpukhovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\serpukhovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sevastopolskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sevastopolskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/severnyy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\severnyy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/shabolovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\shabolovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/shchelkovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\shchelkovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/shchukino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\shchukino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/shchukinskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\shchukinskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/shelepikha-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\shelepikha-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sheremetevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sheremetevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/shherbinka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\shherbinka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/shhjolkovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\shhjolkovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/shipilovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\shipilovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/shodnja/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\shodnja\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/shosse-entuziastov-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\shosse-entuziastov-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/silino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\silino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/skhodnenskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\skhodnenskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/slavyanskiy-bulvar-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\slavyanskiy-bulvar-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/smolenskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\smolenskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sokol-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sokol-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sokol/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sokol\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sokolinaya-gora/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sokolinaya-gora\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sokolniki-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sokolniki-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sokolniki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sokolniki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/solnechnogorsk/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\solnechnogorsk\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/solntsevo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\solntsevo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/solntsevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\solntsevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/spartak-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\spartak-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/spb/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\spb\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sportivnaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sportivnaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sretenskiy-bulvar-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sretenskiy-bulvar-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/stakhanovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\stakhanovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/staraja-kupavna/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\staraja-kupavna\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/staroye-kryukovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\staroye-kryukovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/strogino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\strogino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/strogino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\strogino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/studencheskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\studencheskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sukharevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sukharevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/svao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\svao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sviblovo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sviblovo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/sviblovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\sviblovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/szao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\szao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/taganskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\taganskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/taganskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\taganskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/teatralnaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\teatralnaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tekhnopark-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tekhnopark-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tekstilshchiki-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tekstilshchiki-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tekstilshchiki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tekstilshchiki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/teplyy-stan-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\teplyy-stan-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/teplyy-stan/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\teplyy-stan\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/timiryazevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\timiryazevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/timiryazevskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\timiryazevskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tomilino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tomilino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tretyakovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tretyakovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/troick/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\troick\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/troickiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\troickiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/troparevo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\troparevo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/troparevo-nikulino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\troparevo-nikulino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/trubnaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\trubnaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tsaritsyno-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tsaritsyno-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tsaritsyno/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tsaritsyno\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tsska-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tsska-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tsvetnoy-bulvar-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tsvetnoy-bulvar-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tulskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tulskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/turgenevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\turgenevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tushino-severnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tushino-severnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tushino-yuzhnoye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tushino-yuzhnoye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tushinskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tushinskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tverskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tverskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/tverskoy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\tverskoy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/uao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\uao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ulitsa-1905-goda-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ulitsa-1905-goda-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ulitsa-akademika-yangelya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ulitsa-akademika-yangelya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ulitsa-dmitriyevskogo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ulitsa-dmitriyevskogo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ulitsa-gorchakova-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ulitsa-gorchakova-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ulitsa-skobelevskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ulitsa-skobelevskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/ulitsa-starokachalovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\ulitsa-starokachalovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/universitet-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\universitet-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/uvao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\uvao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/uzao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\uzao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/varshavskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\varshavskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vdnkh-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vdnkh-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vereja/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vereja\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/verkhniye-likhobory-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\verkhniye-likhobory-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/veshki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\veshki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/veshnyaki/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\veshnyaki\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vidnoe/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vidnoe\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vladykino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vladykino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vnukovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vnukovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vodnyy-stadion-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vodnyy-stadion-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/volgogradskiy-prospekt-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\volgogradskiy-prospekt-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/volokolamskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\volokolamskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/volzhskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\volzhskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vorobyevy-gory-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vorobyevy-gory-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vostochnyy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vostochnyy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/voykovskaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\voykovskaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/voykovskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\voykovskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vykhino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vykhino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vykhino-zhulebino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vykhino-zhulebino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/vystavochnaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\vystavochnaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/yakimanka/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\yakimanka\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/yaroslavskiy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\yaroslavskiy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/yasenevo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\yasenevo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/yasenevo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\yasenevo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/yugo-vostochnaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\yugo-vostochnaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/yugo-zapadnaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\yugo-zapadnaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/yuzhnaya-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\yuzhnaya-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/yuzhnoportovyy/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\yuzhnoportovyy\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/zamoskvorechye/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\zamoskvorechye\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/zao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\zao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/zelao/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\zelao\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/zelenograd/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\zelenograd\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/zheleznodorozhnyj/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\zheleznodorozhnyj\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/zhukovskij/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\zhukovskij\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/zhulebino-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\zhulebino-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/zvenigorod/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\zvenigorod\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/zyablikovo-metro/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\zyablikovo-metro\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/zyablikovo/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\zyablikovo\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/na-domu/zyuzino/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\na-domu\zyuzino\index.htm
+Content Type: text/html
+
+Uri: https://medexpress.msk.ru/vyvod-iz-zapoya/v-statsionare/
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\vyvod-iz-zapoya\v-statsionare\index.htm
+Content Type: text/html
+
+Uri: https://service.dialogwidget.ru/widget/dialogw.js
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\widget\dialogw.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-182256574-1
+File Name: C:\Downloaded Web Sites\medexpress.msk.ru\gtag\js
+Content Type: application/javascript
+
