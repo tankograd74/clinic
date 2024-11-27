@@ -2555,19 +2555,7 @@ header .header-rehau > img { max-width: 100%; height: auto; display: block; marg
 
 /* MENU */
 
-nav {
-	width:100%;
-	display: block;
-	clear:both;
-	font-size: 12pt;
-	background: #fcfcfc;
-	position: relative;
-	z-index: 12;
-	position: fixed;
-	top:81px;
-	transition: top .5s;
-	border-bottom:2px solid rgba(0, 45, 138, 0.38);
-}
+nav { display: block; visibility: visible; }
 
 nav.nav-scrolled {
 	top: 0px;
@@ -2754,20 +2742,7 @@ nav > .menu-wrapper > .menu-mobile-info {
 }
 @media all and (max-width:420px) {
 
-	nav {
-		display: block;
-		position: fixed;
-		right:-100%;
-		width:100%;
-		transition:all .5s;
-		z-index: 3;
-		background: #fff;
-		overflow-y: scroll;
-		height:100%;
-		padding-top:65px;
-		top:0;
-
-	}
+	nav { display: block; visibility: visible; }
 
 	nav > .menu-wrapper {
 		width: 100%;
