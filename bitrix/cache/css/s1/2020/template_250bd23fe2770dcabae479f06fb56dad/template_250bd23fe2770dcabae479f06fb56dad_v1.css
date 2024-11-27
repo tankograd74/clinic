@@ -147,3 +147,6 @@ padding: 0 35px;
 }
 /* End */
 /* /bitrix/templates/2020/styles.css?16491627302817 */
+
+.block-3-items { max-width: 1200px; margin: 0 auto; }
+.block-3-items img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
