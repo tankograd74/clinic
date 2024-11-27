@@ -7,7 +7,7 @@
  * @see http://labs.rampinteractive.co.uk/touchSwipe/
  * @see http://plugins.jquery.com/project/touchSwipe
  * @license
- * Copyright (c) 8(351)000-00-00 Matt Bryson
+ * Copyright (c) 2010-2015 Matt Bryson
  * Dual licensed under the MIT or GPL Version 2 licenses.
  *
  */
