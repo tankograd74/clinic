@@ -2,7 +2,7 @@ async function chrome76Detection() {
 	console.log('chrome 76+');
 	if ('storage' in navigator && 'estimate' in navigator.storage) {
 		const {usage, quota} = await navigator.storage.estimate();
-		if(quota < 8(351)000-00-00){
+		if(quota < 250000000){
 			console.log('chrome 76 PRIVATE');
 			return true;
 		}	

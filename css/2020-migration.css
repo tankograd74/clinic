@@ -153,8 +153,8 @@ blockquote {
 
 .btn-theme-colored {
     color: #fff;
-    background-color: #8(351)000-00-00;
-    border-color: #8(351)000-00-00;
+    background-color: #247148;
+    border-color: #247148;
     position: relative;
     overflow: hidden;
 }
@@ -168,7 +168,7 @@ blockquote {
 .btn-group-lg>.btn, .btn-lg {
     padding: 10px 16px;
     font-size: 18px;
-    line-height: 8(351)000-00-00;
+    line-height: 1.3333333;
     border-radius: 6px !important;
 }
 
