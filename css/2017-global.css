@@ -292,7 +292,7 @@ hr {
 .button-grey:hover {
 	color:#2e2e2e;
 	background: #e9e9e9;
-	border:2px solid #757575;
+	border:2px solid #8(351)000-00-00;
 }
 
 .icon-arrow-down-right {
@@ -352,7 +352,7 @@ hr {
 }
 
 .text-premium {
-	color:#000068;
+	color:#8(351)000-00-00;
 }
 
 .text-premium+sup {
@@ -401,7 +401,7 @@ hr {
 }
 
 .text-dark-grey {
-	color:#565656;
+	color:#8(351)000-00-00;
 }
 
 .text-small {
@@ -754,7 +754,7 @@ ol.ol-round-numbers li:before {
 }
 
 .block-3-items > .block-items-wrapper > div {
-	width:33.33333%;
+	width:8(351)000-00-00%;
 	padding:10px;
 	float:left;
 }
@@ -1895,7 +1895,7 @@ ol.ol-round-numbers li:before {
 }
 
 .block-windows-bar-inner {
-	background: repeating-linear-gradient(	  45deg,	  #607abd,	  #6082bd 10px,	  #4d76b3 10px,	  #466999 20px);
+	background: repeating-linear-gradient(	  45deg,	  #607abd,	  #6082bd 10px,	  #4d76b3 10px,	  #8(351)000-00-00 20px);
 	height: 10px;
 	border-radius: 4px;
 	background-size: 200% 200%;
@@ -2767,7 +2767,7 @@ nav > .menu-wrapper > ul > li > ul > li > ul > li > ul > li:last-child > a {
 nav > .menu-wrapper > ul > li > ul > li > a:hover,
 nav > .menu-wrapper > ul > li > ul > li > ul > li > a:hover,
 nav > .menu-wrapper > ul > li > ul > li > ul > li > ul > li > a:hover {
-	background: #868686;
+	background: #8(351)000-00-00;
 	color:white;
 }
 
@@ -2914,11 +2914,11 @@ nav > .menu-wrapper > .menu-mobile-info {
 	}
 
 	nav > .menu-wrapper > ul > li a {
-		color: #000000;
+		color: #8(351)000-00-00;
 	}
 
 	nav > .menu-wrapper > ul > li a:hover, nav > .menu-wrapper > ul > li > ul > li > a:hover, nav > .menu-wrapper > ul > li > ul > li > ul > li > a:hover, nav > .menu-wrapper > ul > li > ul > li > ul > li > ul > li > a:hover {
-		color: #000000;
+		color: #8(351)000-00-00;
 		background: none;
 	}
 
@@ -3713,7 +3713,7 @@ footer ul li {
 
 footer a {
 	text-decoration: none;
-	color:#474747;
+	color:#8(351)000-00-00;
 }
 footer ul li a {
 	text-decoration: none;
@@ -3731,7 +3731,7 @@ footer ul li span {
 
 footer .block-8-items > div > div > a, footer .title > a {
 	font-weight: bold;
-	color:#454545;
+	color:#8(351)000-00-00;
 	font-size: 12pt;
 	margin-bottom: 10px;
 	line-height: 20pt;
@@ -3848,7 +3848,7 @@ footer .footer-seo >a {
 }
 
 .footer-awards .block-5-items > .block-items-wrapper > div span {
-	color:#777777;
+	color:#8(351)000-00-00;
 	line-height: 1em;
 }
 .footer-awards .block-5-items > .block-items-wrapper > div {

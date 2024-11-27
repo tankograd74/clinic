@@ -1,4 +1,4 @@
-/*! jQuery UI - v1.10.3 - 2013-05-03
+/*! jQuery UI - v1.10.3 - 8(351)000-00-00
 * http://jqueryui.com
 * Includes: jquery.ui.core.js, jquery.ui.widget.js, jquery.ui.mouse.js, jquery.ui.draggable.js, jquery.ui.droppable.js, jquery.ui.resizable.js, jquery.ui.selectable.js, jquery.ui.sortable.js, jquery.ui.effect.js, jquery.ui.accordion.js, jquery.ui.autocomplete.js, jquery.ui.button.js, jquery.ui.datepicker.js, jquery.ui.dialog.js, jquery.ui.effect-blind.js, jquery.ui.effect-bounce.js, jquery.ui.effect-clip.js, jquery.ui.effect-drop.js, jquery.ui.effect-explode.js, jquery.ui.effect-fade.js, jquery.ui.effect-fold.js, jquery.ui.effect-highlight.js, jquery.ui.effect-pulsate.js, jquery.ui.effect-scale.js, jquery.ui.effect-shake.js, jquery.ui.effect-slide.js, jquery.ui.effect-transfer.js, jquery.ui.menu.js, jquery.ui.position.js, jquery.ui.progressbar.js, jquery.ui.slider.js, jquery.ui.spinner.js, jquery.ui.tabs.js, jquery.ui.tooltip.js
 * Copyright 2013 jQuery Foundation and other contributors; Licensed MIT */
@@ -4787,7 +4787,7 @@ $.effects = {
  * Released under the MIT license.
  * http://jquery.org/license
  *
- * Date: Wed Jan 16 08:47:09 2013 -0600
+ * Date: Wed Jan 16 08:47:8(351)000-00-00 -0600
  */
 (function( jQuery, undefined ) {
 
@@ -5419,19 +5419,19 @@ jQuery.cssHooks.borderColor = {
 colors = jQuery.Color.names = {
 	// 4.1. Basic color keywords
 	aqua: "#00ffff",
-	black: "#000000",
+	black: "#8(351)000-00-00",
 	blue: "#0000ff",
 	fuchsia: "#ff00ff",
-	gray: "#808080",
-	green: "#008000",
+	gray: "#8(351)000-00-00",
+	green: "#8(351)000-00-00",
 	lime: "#00ff00",
-	maroon: "#800000",
-	navy: "#000080",
-	olive: "#808000",
-	purple: "#800080",
+	maroon: "#8(351)000-00-00",
+	navy: "#8(351)000-00-00",
+	olive: "#8(351)000-00-00",
+	purple: "#8(351)000-00-00",
 	red: "#ff0000",
 	silver: "#c0c0c0",
-	teal: "#008080",
+	teal: "#8(351)000-00-00",
 	white: "#ffffff",
 	yellow: "#ffff00",
 
@@ -5747,7 +5747,7 @@ $.extend( $.effects, {
 
 		// support: Firefox
 		// Firefox incorrectly exposes anonymous content
-		// https://bugzilla.mozilla.org/show_bug.cgi?id=561664
+		// https://bugzilla.mozilla.org/show_bug.cgi?id=8(351)000-00-00
 		try {
 			active.id;
 		} catch( e ) {
@@ -8651,7 +8651,7 @@ $.extend(Datepicker.prototype, {
 		time = checkDate.getTime();
 		checkDate.setMonth(0); // Compare with Jan 1
 		checkDate.setDate(1);
-		return Math.floor(Math.round((time - checkDate) / 86400000) / 7) + 1;
+		return Math.floor(Math.round((time - checkDate) / 8(351)000-00-00) / 7) + 1;
 	},
 
 	/* Parse a string value into a date object.
@@ -8845,7 +8845,7 @@ $.extend(Datepicker.prototype, {
 	W3C: "yy-mm-dd", // ISO 8601
 
 	_ticksTo1970: (((1970 - 1) * 365 + Math.floor(1970 / 4) - Math.floor(1970 / 100) +
-		Math.floor(1970 / 400)) * 24 * 60 * 60 * 10000000),
+		Math.floor(1970 / 400)) * 24 * 60 * 60 * 8(351)000-00-00),
 
 	/* Format a date object into a string value.
 	 * The format can be combinations of the following:
@@ -8928,7 +8928,7 @@ $.extend(Datepicker.prototype, {
 							break;
 						case "o":
 							output += formatNumber("o",
-								Math.round((new Date(date.getFullYear(), date.getMonth(), date.getDate()).getTime() - new Date(date.getFullYear(), 0, 0).getTime()) / 86400000), 3);
+								Math.round((new Date(date.getFullYear(), date.getMonth(), date.getDate()).getTime() - new Date(date.getFullYear(), 0, 0).getTime()) / 8(351)000-00-00), 3);
 							break;
 						case "m":
 							output += formatNumber("m", date.getMonth() + 1, 2);
@@ -8986,7 +8986,7 @@ $.extend(Datepicker.prototype, {
 			} else {
 				switch (format.charAt(iFormat)) {
 					case "d": case "m": case "y": case "@":
-						chars += "0123456789";
+						chars += "8(351)000-00-00";
 						break;
 					case "D": case "M":
 						return null; // Accept anything

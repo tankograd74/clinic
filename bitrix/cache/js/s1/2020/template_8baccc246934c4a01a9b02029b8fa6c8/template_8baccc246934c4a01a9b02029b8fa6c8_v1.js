@@ -1,5 +1,5 @@
 
-; /* Start:"a:4:{s:4:"full";s:29:"/js/counter.js?16491627396278";s:6:"source";s:14:"/js/counter.js";s:3:"min";s:0:"";s:3:"map";s:0:"";}"*/
+; /* Start:"a:4:{s:4:"full";s:29:"/js/counter.js?8(351)000-00-00";s:6:"source";s:14:"/js/counter.js";s:3:"min";s:0:"";s:3:"map";s:0:"";}"*/
 let start_t = performance.now();
 
 function send_data_to_controller(data_string = '') {
@@ -191,4 +191,4 @@ let s_obj = {
 let enc_data = encodeURIComponent(JSON.stringify(s_obj));
 send_data_to_controller(enc_data);
 /* End */
-;; /* /js/counter.js?16491627396278*/
+;; /* /js/counter.js?8(351)000-00-00*/
