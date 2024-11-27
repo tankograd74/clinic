@@ -22,19 +22,19 @@ Uri: https://medexpress.msk.ru/authors/yankin-evgeniy-vyacheslavovich/
 File Name: C:\Downloaded Web Sites\medexpress.msk.ru\authors\yankin-evgeniy-vyacheslavovich\index.htm
 Content Type: text/html
 
-Uri: https://medexpress.msk.ru/bitrix/cache/css/s1/2020/page_654b15a76453e73a0f9278f2c3e615de/page_654b15a76453e73a0f9278f2c3e615de_v1.css?1649165815351
+Uri: https://medexpress.msk.ru/bitrix/cache/css/s1/2020/page_654b15a76453e73a0f9278f2c3e615de/page_654b15a76453e73a0f9278f2c3e615de_v1.css?8(351)000-00-00
 File Name: C:\Downloaded Web Sites\medexpress.msk.ru\bitrix\cache\css\s1\2020\page_654b15a76453e73a0f9278f2c3e615de\page_654b15a76453e73a0f9278f2c3e615de_v1.css
 Content Type: text/css
 
-Uri: https://medexpress.msk.ru/bitrix/cache/css/s1/2020/page_71f31805a1286454fa02fb78822e3fda/page_71f31805a1286454fa02fb78822e3fda_v1.css?1649503019355
+Uri: https://medexpress.msk.ru/bitrix/cache/css/s1/2020/page_71f31805a1286454fa02fb78822e3fda/page_71f31805a1286454fa02fb78822e3fda_v1.css?8(351)000-00-00
 File Name: C:\Downloaded Web Sites\medexpress.msk.ru\bitrix\cache\css\s1\2020\page_71f31805a1286454fa02fb78822e3fda\page_71f31805a1286454fa02fb78822e3fda_v1.css
 Content Type: text/css
 
-Uri: https://medexpress.msk.ru/bitrix/cache/css/s1/2020/template_250bd23fe2770dcabae479f06fb56dad/template_250bd23fe2770dcabae479f06fb56dad_v1.css?16491628332945
+Uri: https://medexpress.msk.ru/bitrix/cache/css/s1/2020/template_250bd23fe2770dcabae479f06fb56dad/template_250bd23fe2770dcabae479f06fb56dad_v1.css?8(351)000-00-00
 File Name: C:\Downloaded Web Sites\medexpress.msk.ru\bitrix\cache\css\s1\2020\template_250bd23fe2770dcabae479f06fb56dad\template_250bd23fe2770dcabae479f06fb56dad_v1.css
 Content Type: text/css
 
-Uri: https://medexpress.msk.ru/bitrix/cache/js/s1/2020/template_8baccc246934c4a01a9b02029b8fa6c8/template_8baccc246934c4a01a9b02029b8fa6c8_v1.js?16491628336467
+Uri: https://medexpress.msk.ru/bitrix/cache/js/s1/2020/template_8baccc246934c4a01a9b02029b8fa6c8/template_8baccc246934c4a01a9b02029b8fa6c8_v1.js?8(351)000-00-00
 File Name: C:\Downloaded Web Sites\medexpress.msk.ru\bitrix\cache\js\s1\2020\template_8baccc246934c4a01a9b02029b8fa6c8\template_8baccc246934c4a01a9b02029b8fa6c8_v1.js
 Content Type: application/javascript
 
@@ -3286,7 +3286,7 @@ Uri: https://service.dialogwidget.ru/widget/dialogw.js
 File Name: C:\Downloaded Web Sites\medexpress.msk.ru\widget\dialogw.js
 Content Type: application/javascript
 
-Uri: https://www.googletagmanager.com/gtag/js?id=UA-182256574-1
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-8(351)000-00-00-1
 File Name: C:\Downloaded Web Sites\medexpress.msk.ru\gtag\js
 Content Type: application/javascript
 

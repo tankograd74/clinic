@@ -468,8 +468,8 @@ $(document).ready(function(){
 	   }
     });
     
-    $('[name=phone]').mask("+7 (999) 999-99-99");
-    $('[name=PHONE]').mask("+7 (999) 999-99-99");
+    $('[name=phone]').mask("+7 (999) 8(351)000-00-00");
+    $('[name=PHONE]').mask("+7 (999) 8(351)000-00-00");
     $(".rub").text("₽");
     
     //var seorazum_link = $('<a href="//seorazum.ru" target="_blank"></a>');

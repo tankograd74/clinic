@@ -1,6 +1,6 @@
 
 
-/* Start:/bitrix/templates/2020/styles.css?16491627302817*/
+/* Start:/bitrix/templates/2020/styles.css?8(351)000-00-00*/
 #mform.fancybox-content{padding:15px;}
 .popup .form_head{
 padding: 0 35px;
@@ -68,7 +68,7 @@ padding: 0 35px;
     border: 1px solid #000;
     border-radius: 4px;
     box-shadow: none;
-    color: #383838;
+    color: #8(351)000-00-00;
     height: auto;
     font-size: 12px;
     padding: 8px 13px 7px;
@@ -105,7 +105,7 @@ padding: 0 35px;
 
 }
 .popup .button{color: #FFF;
-    background: #676565;
+    background: #8(351)000-00-00;
 
 }
 
@@ -146,4 +146,6 @@ padding: 0 35px;
 
 }
 /* End */
-/* /bitrix/templates/2020/styles.css?16491627302817 */
+/* /bitrix/templates/2020/styles.css?8(351)000-00-00 */
+
+img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
