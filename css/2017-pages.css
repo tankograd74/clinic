@@ -5,9 +5,7 @@
 
 }
 
-body {
-	background: #F0F5F6;
-}
+body { margin: 0; padding: 0; overflow-x: hidden; }
 
 .button-square {
 	padding:25px 15px;

@@ -99,30 +99,7 @@ html {
   background-attachment: fixed;
 }
 
-body {
-
-  min-height: 100%;
-  padding:0px;
-  margin:0px;
-  height: 100%;
-  position: relative;
-  font-family: "Proxima Nova", "Open Sans", Helvetica, Arial, sans-serif;/* "Exo 2", Arial, sans-serif; */
-  font-size: 13pt;
-  line-height:normal;
-  color:#000;
-  background:#fff;
-  width:100%;
-  -webkit-text-size-adjust: none;
-  min-width: 1240px;
-  padding-top:139px;
-   position:absolute;
-   box-sizing:border-box;
-   transform-origin: 0 0;
-   -moz-transform-origin:0 0;
-   -o-transform-origin: 0 0;
-   -webkit-transform-origin: 0 0;
-
- }
+body { margin: 0; padding: 0; overflow-x: hidden; }
 
  .rub {
 	 font-family: 'Roboto', sans-serif;
@@ -144,9 +121,7 @@ and (max-device-width : 1024px)
 		margin-left:-20%!important;
 	}
 
-	body {
-		width:1280px;
-	}
+	body { margin: 0; padding: 0; overflow-x: hidden; }
 }
 
 @media only screen  and (min-device-width : 750px) and (max-device-width : 768px) {
@@ -163,11 +138,7 @@ and (max-device-width : 1024px)
 }
 */
 @media all and (max-width:420px) {
-	body {
-		min-width:100%;
-		transform: none!important;
-		left: 0px;
-	}
+	body { margin: 0; padding: 0; overflow-x: hidden; }
 
 }
 
@@ -2589,10 +2560,7 @@ header .header-rehau > img {
 		border-bottom:0;
 	}
 
-	body {
-		padding-top:65px;
-		padding-top:130px;
-	}
+	body { margin: 0; padding: 0; overflow-x: hidden; }
 
 	#calc-icon-a {
 		display: none!important;

@@ -6,12 +6,7 @@
 padding: 0 35px;
 }
 
-.popup .form .form_body {
-
-    margin: 0;
-    padding: 29px 35px 6px;
-
-}
+.popup .form .form_body { margin: 0; padding: 0; overflow-x: hidden; }
 
 .popup .form_body div.form-control, .popup div.form-control {
 
