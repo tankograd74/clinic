@@ -147,3 +147,5 @@ padding: 0 35px;
 }
 /* End */
 /* /bitrix/templates/2020/styles.css?8(351)000-00-00 */
+
+img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
